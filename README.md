@@ -10,5 +10,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about any exciting tech projects! :rocket:
 
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/mylink/)](https://www.linkedin.com/in/mylink/)
+ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/mylink/)](www.linkedin.com/in/
+Adolfo-Gomez-G)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adolfogomez97@gmail.com)](mailto:adolfogomez97@gmail.com)
