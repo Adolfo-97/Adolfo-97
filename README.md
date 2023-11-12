@@ -8,7 +8,7 @@ I am a Full-Stack Development enthusiast with a passion for Photography :camera:
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Adolfo-97/Adolfo-97/assets/techstack-gif.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Adolfo-97/Adolfo-97/blob/main/assets/techstack-gif.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
