@@ -13,7 +13,7 @@ I am a Full-Stack Development enthusiast with a passion for Photography :camera:
 ### 🧐 More About Me:
 
 - 💼 &nbsp; I’m currently working on web development.
-- 🌱 &nbsp; I’m currently learning Tailwind;
+- 🌱 &nbsp; I’m currently learning Java;
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Adolfo-97?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adolfo-gomez-g/)
