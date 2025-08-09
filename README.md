@@ -17,7 +17,7 @@ I am a Full-Stack Development enthusiast with a passion for Photography :camera:
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Adolfo-97?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adolfo-gomez-g/)
-- 🎓 &nbsp; In my spare time I'm learning AI, 3D design and PCB design techniques.
+- 🎓 &nbsp; In my spare time I'm learning 3D design and PCB design.
 - 🏎️ &nbsp; When I'm free, I like to play Iracing, if you want to add me for some races here's my profile: https://members.iracing.com/membersite/member/CareerStats.do?custid=612385
 
 <br>
